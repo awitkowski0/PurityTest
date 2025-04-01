@@ -39,6 +39,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <div className={styles.content}>
+          <img src="/beta-logo.svg" alt="Beta Theta Pi Logo" className={styles.logo} />
           <h1 className={styles.title}>The Official Beta Theta Pi Purity Test</h1>
           
           <p className={styles.description}>
